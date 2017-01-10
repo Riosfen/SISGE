@@ -1,0 +1,20 @@
+P: El sistema electoral para determinar las personas que ocuparan cargos publicos:
+*a.Sufragio
+b.Adagio
+c.Naufragio
+d.Prestigio
+P: Una persona famelica esta:
+a.Irritable
+*b.Hambrienta
+c.Furiosa
+d.Asustada
+P: Jose Tomas Boves murio en la Batalla de:
+a.Carabobo
+*b.Urica
+c.Mucuritas
+d.Calabozo
+P: Son las membranas movibles cubiertas de piel que resguardan los ojos:
+a.Cejas
+b.Pupilas
+*c.Parpados
+d.Anteojos
